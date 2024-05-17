@@ -88,7 +88,8 @@ Starting the simulation environment:
 # CMOS INVERTER:
 # CMOS INVERTER SCHEMATIC:
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/67efff20-2ab4-4321-b2d1-c52bd2e84aaf)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/f2776eee-1b92-4e9c-9c7f-bcccbf56a52e)
+
 # SPECIFICATIONS:
 Vpulse V1 = 0 Vdc = 1 V2 = 1 td = 0,tr=tf=1 n, ton= 100n ,T=200n
 # SIMULATION SETTINGS:
@@ -103,28 +104,35 @@ Start = -1 Stop = 1 resp.
 # CMOS INVERTER TEST CELL VIEW:
 
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/fdf326e7-aa4d-4674-800d-c1a09bb8ee64)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/01fc4028-5086-4227-affe-f8dad5e7e818)
+
 # CMOS INVERTER SIMULATION WITH SPECTRA:
 # TRANSIENT RESPONSE:
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/c97d9808-7311-46f7-9ca1-f02fcf6e93d7)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/503f7e4e-8815-4f38-9ba7-f09af1730572)
+
 # DC RESPONSE:
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/1a4c4b47-dcff-4940-980f-3ff78c82decb)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/1a366e78-3518-4f97-8f03-d280446fac57)
+
 # CMOS NAND GATE:
 # NAND SCHEMATIC:
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/9f5f95ce-e36f-4a02-a6d5-1ae6e893439b)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/d0608889-2ab1-40a6-b6e5-27c6e5e8571a)
+
 # NAND TEST CELL VIEW:
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/e0145004-3966-4955-8f8c-bd01ef4f978b)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/e7fad853-a937-4dd2-bc39-68cd31f94f21)
+
 # NAND SIMULATION WITH SPECTRA:
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/079c6eac-1ef7-49ac-aec5-443c8bf127fd)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/ab4b005b-1813-4e46-bdb3-a0bc3cae1577)
+
 # CMOS NOR GATE:
 # NOR SCHEMATIC:
 
-![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/3c8af954-9947-46ed-8e0a-e5b1835e608b)
+![image](https://github.com/rupeshjb/VLSI-LAB-EXP-6/assets/119603360/b46dd641-c46a-4afb-a2a6-f32a527d21fa)
+
 # NOR TEST CELL VIEW:
 
 ![image](https://github.com/GauravSunehl/VLSI-LAB-EXP-6/assets/166976407/59a84750-b277-41b8-a2b2-b1bc5bbef9d2)
